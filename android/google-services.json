@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388607640470",
+    "project_id": "taylor-e4366",
+    "storage_bucket": "taylor-e4366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388607640470:android:1610264ea8d19be28893b7",
+        "android_client_info": {
+          "package_name": "com.dejito.taylor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388607640470-6s12163qnqeuvu4lop2rfkilqus0ed05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmzQp38bqjjJGBNCBl90dH8Z74GKCebiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388607640470-6s12163qnqeuvu4lop2rfkilqus0ed05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
